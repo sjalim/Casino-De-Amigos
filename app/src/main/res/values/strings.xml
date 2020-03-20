@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Casino De Amigos</string>
+    <string name="todo">TODO</string>
+    <string name="tapAnyWhere">Tap Any Where</string>
+    <string name="start">start</string>
+    <string name="score">Score</string>
+    <string name="about">About</string>
+    <string name="jackpot">JACKPOT</string>
+    <string name="enter_bet">Enter Bet:</string>
+    <string name="guess_number">Guess Number:</string>
+    <string name="point">point</string>
+<string name="aboutString">Just for fun. Peace... :D </string>
+    <string name="about1">About:</string>
+
+</resources>

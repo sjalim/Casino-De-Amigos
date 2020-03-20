@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".menu"
+    tools:ignore="Deprecated">
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="186dp"
+        android:layout_height="77dp"
+        android:layout_x="115dp"
+        android:layout_y="143dp"
+        android:background="@color/buttonColor"
+        android:fontFamily="@font/bungee_shade"
+        android:text="@string/start"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/aboutButton"
+        android:layout_width="186dp"
+        android:layout_height="77dp"
+        android:layout_x="115dp"
+        android:layout_y="419dp"
+        android:background="@color/buttonColor"
+        android:fontFamily="@font/bungee_shade"
+        android:text="@string/about"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/scoreButton"
+        android:layout_width="186dp"
+        android:layout_height="77dp"
+        android:layout_x="115dp"
+        android:layout_y="282dp"
+        android:background="@color/buttonColor"
+        android:fontFamily="@font/bungee_shade"
+        android:text="@string/score"
+        android:textSize="30sp" />
+
+</AbsoluteLayout>
